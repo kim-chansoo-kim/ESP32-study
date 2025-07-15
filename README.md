@@ -31,9 +31,11 @@ ESP32 개인 스터디 리포지토리
     - ESP32 내장 LED가 깜빡이는 간단한 코드
     - 아두이노 IDE 상단의 업로드(Upload) 버튼 (오른쪽 화살표 모양)을 클릭하여 코드를 ESP32에 업로드
     - 스케치 컴파일 후 업로드
-    - <img src="./image/ESP0003.jpg" width="600">
+    - <img src="./image/ESP0003.jpg" width="400">
 
     - [LED](./Day01/ESP_LED/ESP_LED.ino)
 
 6. 두번째 예제 RGB_LED_FADE
     - [RGB_LED_FADE](./Day01/ESP_RGB_led/ESP_RGB_led.ino)
+
+https://github.com/user-attachments/assets/72f9896c-f79b-4198-9239-8e1f2d20859f
