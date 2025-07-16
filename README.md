@@ -26,7 +26,7 @@ ESP32 개인 스터디 리포지토리
     - 아두이노 IDE에서 툴(Tools) > 보드(Board) > ESP32 Arduino 메뉴 아래에서 사용하는 ESP32 보드 종류를 선택
     - 툴(Tools) > 포트(Port)에서 ESP32가 연결된 COM 포트를 선택
 
-5. 예제 코드 업로드 및 실행 (블링크 예제)
+5. 예제 코드 업로드 및 실행 (`블링크` 예제)
     - 파일(File) > 예제(Examples) > 01.Basics > Blink를 클릭하여 블링크 예제 코드를 오픈
     - ESP32 내장 LED가 깜빡이는 간단한 코드
     - 아두이노 IDE 상단의 업로드(Upload) 버튼 (오른쪽 화살표 모양)을 클릭하여 코드를 ESP32에 업로드
@@ -39,3 +39,8 @@ ESP32 개인 스터디 리포지토리
     - [RGB_LED_FADE](./Day01/ESP_RGB_led/ESP_RGB_led.ino)
 
 https://github.com/user-attachments/assets/72f9896c-f79b-4198-9239-8e1f2d20859f
+
+## Day02(2025-07-16)
+
+### ESP32 블루투스모듈을 사용해 LED제어하기
+1. 
