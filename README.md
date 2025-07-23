@@ -239,3 +239,10 @@ if __name__ == '__main__':
         GPIO.cleanup() # GPIO 핀 정리 필수
         print("GPIO 정리 완료.")
 ```
+#### 영상자료
+
+https://github.com/user-attachments/assets/baeccef3-cdae-4dd2-8d53-d1dde83c96f0
+
+
+https://github.com/user-attachments/assets/542e7bcb-b1cf-4b72-aebe-078485331153
+
